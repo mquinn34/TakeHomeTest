@@ -1,6 +1,6 @@
 # Coding Assessment
 
-This repository contains my solution to the RealtyAds Junior Software Engineer take-home assessment.  
+This repository contains my solution to the take-home assessment.  
 
 ## Contents
 - **solutions.php** — main implementation  
