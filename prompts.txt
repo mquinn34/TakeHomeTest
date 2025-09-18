@@ -1,0 +1,8 @@
+Ai promts used to complete this assesment:
+
+How to open a JSON file in PHP and turn in into an array so I can loop through it?
+How do i compare values in php inside a loop?
+Whats the PHP syntax to trim a string?
+How do I check if an array key exists before incrementing it?
+Give me an example of using isset in php
+I need to print one JSON object as my final result, how do I do that in PHP?
